@@ -16,15 +16,15 @@ username: kejonaMC
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: A Minecraft Development group.
 # email: Your E-Mail address for the email button.
-email: keyonamc@gmail.com
+email: kejonamc@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: keyonaMC
-codepen_username: keyonaMC
-dev_username: keyonaMC
-linkedin_username: keyonaMC
-twitter_username: keyonaMC
+github_username: kejonaMC
+codepen_username: kejonaMC
+dev_username: kejonaMC
+linkedin_username: kejonaMC
+twitter_username: kejonaMC
 
 # ABOUT ME SECTION
 # show_aboutme_card:
