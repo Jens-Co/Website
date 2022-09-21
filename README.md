@@ -12,7 +12,7 @@ To get a local copy up and running follow these simple steps.
 gem install bundler jekyll
 ```
 
-* Install dependencies
+* Install dependencies.
 
 ```sh
 yarn
